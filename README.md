@@ -26,9 +26,6 @@ Los objetivos de esta asignatura se orientan a familiarizar al alumno en concept
 
 * Para el módulo 1 se utiliza pizarrón. Se incluyen slides asociadas a los módulos 2 y 3, que además están directamente asociados a IoT.
 
-#### !![logosbeneficaireserasmusleft_en_1](https://github.com/neon-iot/introdigitalcom/assets/94380520/06cd4161-c72b-4db0-aecb-e900094000c5) 
-#### !![cropped-logo_neon_text](https://github.com/neon-iot/introdigitalcom/assets/94380520/11a2e54f-9bf5-4d16-bb73-6925e0441d69)
-
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -40,3 +37,6 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+[logosbeneficaireserasmusleft_en_1](https://github.com/neon-iot/introdigitalcom/assets/94380520/06cd4161-c72b-4db0-aecb-e900094000c5) 
+[cropped-logo_neon_text](https://github.com/neon-iot/introdigitalcom/assets/94380520/11a2e54f-9bf5-4d16-bb73-6925e0441d69)
