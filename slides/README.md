@@ -1,2 +1,2 @@
 # 
-### Slides para los dódulos 2 y 3
+### Slides para los módulos 2 y 3
