@@ -1,6 +1,5 @@
 
-!![logosbeneficaireserasmusleft_en_1](https://github.com/neon-iot/introdigitalcom/assets/94380520/06cd4161-c72b-4db0-aecb-e900094000c5)
-[cropped-logo_neon_text](https://github.com/neon-iot/introdigitalcom/assets/94380520/11a2e54f-9bf5-4d16-bb73-6925e0441d69)
+!![logosbeneficaireserasmusleft_en_1](https://github.com/neon-iot/introdigitalcom/assets/94380520/06cd4161-c72b-4db0-aecb-e900094000c5) [cropped-logo_neon_text](https://github.com/neon-iot/introdigitalcom/assets/94380520/11a2e54f-9bf5-4d16-bb73-6925e0441d69)
 
 # Introducción a las comunicaciones digitales
 ## 
