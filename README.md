@@ -25,7 +25,7 @@ Los objetivos de esta asignatura se orientan a familiarizar al alumno en concept
 ## Contenidos de IoT
 * Los contenidos de IoT están asociados a la aplicación de las modulaciones de banda ancha analizadas en el curso. Estarán asociada a dos módulos y laboratorios demostrativos asociados. Por un lado, la modulación de espectro disperso, como una forma general de describir la capa física de LoRa. Por otro lado, modulación OFDM para describir la capa física de 3GPP NB-IoT.
 
-* Se incluyen slides asociadas a los modulos 2 y 3, que están directamente asociados a IoT.
+* Para el módulo 1 se utiliza pizarrón. Se incluyen slides asociadas a los módulos 2 y 3, que además están directamente asociados a IoT.
 
 
 
