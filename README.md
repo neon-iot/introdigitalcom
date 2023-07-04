@@ -1,3 +1,5 @@
+
+
 # Introducción a las comunicaciones digitales
 ## 
 Los objetivos de esta asignatura se orientan a familiarizar al alumno en conceptos asociados a sistemas de comunicaciones digitales modernos, desde la perspectiva del manejo eficiente de la información, y poniendo énfasis en los recursos de diseño disponibles. La asignatura está compuesta esencialmente de tres partes: caracterización de fuentes de información, introducción a las técnicas de codificación de canal y desempeño de técnicas de modulación de banda ancha: espectro disperso y multiportadoras. 
@@ -23,7 +25,7 @@ Los objetivos de esta asignatura se orientan a familiarizar al alumno en concept
 ## Contenidos de IoT
 * Los contenidos de IoT están asociados a la aplicación de las modulaciones de banda ancha analizadas en el curso. Estarán asociada a dos módulos y laboratorios demostrativos asociados. Por un lado, la modulación de espectro disperso, como una forma general de describir la capa física de LoRa. Por otro lado, modulación OFDM para describir la capa física de 3GPP NB-IoT.
 
-* Se incluyen slides asociadas a los modulos 2 y 3, que están directamente asociados a IoT, y también una clase complementaria introduciendo conceptos de las redes LoRa y NB-IoT.
+* Se incluyen slides asociadas a los modulos 2 y 3, que están directamente asociados a IoT.
 
 
 
