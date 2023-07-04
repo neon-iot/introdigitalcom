@@ -3,10 +3,13 @@
 Los objetivos de esta asignatura se orientan a familiarizar al alumno en conceptos asociados a sistemas de comunicaciones digitales modernos, desde la perspectiva del manejo eficiente de la información, y poniendo énfasis en los recursos de diseño disponibles. La asignatura está compuesta esencialmente de tres partes: caracterización de fuentes de información, introducción a las técnicas de codificación de canal y desempeño de técnicas de modulación de banda ancha: espectro disperso y multiportadoras. 
 
 ## Tópicos principales
-*	Fuentes de información y codificación de fuente. Técnicas de codificación de canal. Modelado de canales de comunicaciones. Teorema de codificación del canal. 
+### Módulo 1
+*	Fuentes de información y codificación de fuente. Técnicas de codificación de canal. Modelado de canales de comunicaciones. Teorema de codificación del canal.
+### Módulo 2
 *	Modelos de canales de comunicaciones inalámbricos. Modelos de pequeña escala y de gran escala. Transmisión digital en canales con desvanecimiento y multicamino. Diversidad en tiempo, frecuencia, espacio y codificación.
-*	Modulación de espectro disperso. Modelo de un sistema de espectro disperso. Sistemas de espectro disperso de secuencia directa (DS-SS) y saltos en frecuencia (FH-SS). Aplicaciones.
-*	Modulación de multiportadoras. Transmisión usando portadoras múltiples. Reducción del desvanecimiento por subportadora. Implementación de la modulación multiportadoras. Aplicaciones. 
+### Módulo 3
+*	Modulación de espectro disperso: Modelo de un sistema de espectro disperso. Sistemas de espectro disperso de secuencia directa (DS-SS) y saltos en frecuencia (FH-SS). Aplicaciones.
+*	Modulación de multiportadoras: Transmisión usando portadoras múltiples. Reducción del desvanecimiento por subportadora. Implementación de la modulación multiportadoras. Aplicaciones. 
 
 ## Que se aprende en el curso
 *	Conceptos de modelado estadístico de fuentes de información y la reducción de efectos del ruido en el canal para poner en evidencia la necesidad de eliminar redundancia en la representación, por un lado, e introducirla en forma controlada, por otro. 
